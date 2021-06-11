@@ -1,6 +1,4 @@
-#Zomato Landing Page
-
-##Recreated Zomato's Landing page (April 2021)!
+## Recreated Zomato's Landing page (April 2021)!
 
 **Web Technologies Used**
 - HTML5
