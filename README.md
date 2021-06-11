@@ -1,9 +1,9 @@
 ## Recreated Zomato's Landing page (April 2021)!
 
 Images
-![Zomato Page](C:\Users\tgsud\Desktop\Web Development\Journey\Projects\Landing Pages\Zomato\Post\Photo - 1)
 
-![Responsive Site](C:\Users\tgsud\Desktop\Web Development\Journey\Projects\Landing Pages\Zomato\Post\Photo - 6)
+<img src="/Images/Photo - 1.PNG" height = "400px" width="auto">
+<img src="/Images/Photo - 6.jpeg" height = "300px" width = "auto">
 
 
 
